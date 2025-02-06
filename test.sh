@@ -1,0 +1,1 @@
+echo "y" | perl vbscan.pl $1
